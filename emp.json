@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Dr. Meeravali Shaikh",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "designation": "HOD"
+  },
+  {
+    "name": "Dr. B. Jogeswara Rao",
+    "degree": ["MSc (Comp)", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "designation": "Associate Professor"
+  },
+  {
+    "name": "Dr. M. Ravikanth",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "designation": "Associate Professor"
+  },
+  {
+    "name": "Mr. M. Gouthamm",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mr. G. Kishore Kumar",
+    "degree": ["B. Tech(EEE)", "M. Tech (EEE)"],
+    "designation": "Assistant Professor"
+  },
+
+  {
+    "name": "Dr. Arun Singh Chouhan",
+    "degree": ["B.E (CSE)", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "designation": "Associate Professor"
+  },
+  {
+    "name": "Dr. M. Narayanan",
+    "degree": ["B.E (CSE)", "M.E (CSE)", "Ph. D (CSE)"],
+    "designation": "Professor"
+  },
+  {
+    "name": "Dr. P. Rambabu",
+    "degree": [
+      "B.Tech(Civil)",
+      "M. Tech(Remote Sensing)",
+      "Ph. D(Remote Sensing)"
+    ],
+    "designation": "Professor"
+  },
+  {
+    "name": "Dr. T. Phanindra",
+    "degree": ["B. Tech(EEE)", "M. Tech (EEE)", "Ph.D (EEE)"],
+    "designation": "Associate Professor"
+  },
+
+  {
+    "name": "Dr. M. Santhosh Kumar Goud",
+    "degree": ["B.Tech (EEE)", "MS(Photonics)", "Ph. D (EEE)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Dr. P. Aurchana",
+    "degree": ["MCA", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mr. Naveen Kumar Navuri",
+    "degree": ["B. Tech(IT)", "M. Tech (CSE)", "Ph.D Pursuing"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mr. G. Raju",
+    "degree": ["MCA", "M. Tech (CSE)", "Ph. D Pursuing"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mr. M. Krishna Kishore",
+    "degree": ["B. Tech (IT)", "M. Tech (CSE)", "Ph. D (Pursuing)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mrs. D. Suneetha",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D Pursuing"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "T. Indira Priyadarshini",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D (Pursuing)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mrs. P. Sabitha",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D (Pursuing)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mrs. B. Tejaswi",
+    "degree": ["B. Tech (CSE)", "M. Tech (CNIS)", "Ph. D (Pursuing)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mr. T. Srajan Kumar",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D (Pursuing)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mr. N.V. Krishna Rao",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D (Pursuing)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mrs. P. Shyamala",
+    "degree": ["M. Tech (CSE)", "MCA"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mrs. M. Mounika",
+    "degree": ["B. Tech (CSIT)", "M. Tech (CSE)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "G. Trinadha Rao",
+    "degree": ["MCA", "M. Tech (CSE)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mrs. S. Monika",
+    "degree": ["B. E (CSE)", "M.E (CSE)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mrs. S. Sowmya",
+    "degree": ["B. Tech (CSIT)", "MS (CSIT)"],
+    "designation": "Assistant Professor"
+  },
+  {
+    "name": "Mrs. K. Manasa",
+    "degree": ["B. Tech (CSE)", "M. Tech (CSE)"],
+    "designation": "Assistant Professor"
+  }
+]
