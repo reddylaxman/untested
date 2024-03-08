@@ -1,9 +1,5 @@
  [
-    {
-      "code": null,
-      "name": "Dr. Kasa Ravindra",
-      "designation": "Dean, School of Engineering"
-    },
+    
     {
       "code": "MRUE2212T162",
       "name": "Dr. Harikrishna Kamatham",
@@ -162,21 +158,6 @@
     {
       "code": "MRUE2108T028",
       "name": "Mrs. K. Manasa",
-      "designation": "Assistant Professor"
-    },
-    {
-      "code": null,
-      "name": "Mr. K. Sreekanth",
-      "designation": "Assistant Professor"
-    },
-    {
-      "code": null,
-      "name": "Mrs. Sagharika",
-      "designation": "Assistant Professor"
-    },
-    {
-      "code": null,
-      "name": "Mr. P. Vamshi Krishna",
       "designation": "Assistant Professor"
     }
   ]
